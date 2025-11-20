@@ -12,7 +12,7 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 1. Figma / Adobe XD
 2. FigJam
 3. Adobe Illustrator
-<br/>
+<br/> 
 <br/>
 
 ## 🧾Common Rules:
@@ -52,5 +52,3 @@ Since you have scrolled this far, here are some short resources to give you an e
 - Figma Download Link:
 https://www.figma.com/downloads/
 
-- Figma Tutorials:
-https://www.youtube.com/watch?v=WZQYt5HZ0-E&list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt
